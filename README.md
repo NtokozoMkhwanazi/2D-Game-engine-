@@ -1,2 +1,2 @@
-# 2D Game engine
-SFML poject
+# 2D GAME ENGINE
+Simple single player engine written in c++ using SFML 
